@@ -1,0 +1,23 @@
+{
+  "name": "crop_monitoring_sih",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishgarg344/crop_monitoring_sih.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishgarg344/crop_monitoring_sih/issues"
+  },
+  "homepage": "https://github.com/krishgarg344/crop_monitoring_sih#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
