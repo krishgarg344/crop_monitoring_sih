@@ -2,5 +2,6 @@ pandas
 numpy
 rasterio
 geopandas
+scipy
 matplotlib
 tensorflow # For our MobileNetV2 model
