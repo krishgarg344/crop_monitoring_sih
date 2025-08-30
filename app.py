@@ -9,7 +9,7 @@ app = Flask(__name__)
 # --- 2. Load the Trained Model ---
 # Make sure the model file is in the same directory as this script
 try:
-    model = tf.keras.models.load_model('crop_health_model.keras')
+    model = tf.keras.models.load_model('model/crop_health_model.keras')
     print("✅ Model loaded successfully!")
 except Exception as e:
     print(f"❌ Error loading model: {e}")
