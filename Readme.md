@@ -1,5 +1,3 @@
-This version reflects your **actual implementation + real model performance + honest limitations**. No fluff, no mismatch.
-
 ---
 
 # 🌾 CropVision: Satellite-Based Crop Health Monitoring using Deep Learning
